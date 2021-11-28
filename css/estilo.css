@@ -1,15 +1,28 @@
+<<<<<<< HEAD
 body {
     color: blue;
     text-align: left;
     font-family: Courier;
+=======
+body{
+    color:blue;
+    text-align: left;
+    font-family:  Courier;
+>>>>>>> e7125290595b0f48cdbfa7627ee2a3294b90e900
     font-size: 16px;
     margin: 0;
     padding: 0;
 }
 
+<<<<<<< HEAD
 #cabecera {
     background: #33A;
     box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.5);
+=======
+#cabecera{
+    background: #33A;
+    box-shadow: 0px 5px 30px 0px rgba(0,0,0,0.5);
+>>>>>>> e7125290595b0f48cdbfa7627ee2a3294b90e900
     color: white;
     font-weight: bold;
     margin: 0;
@@ -22,12 +35,20 @@ body {
     font-size: 0.8em;
 }
 
+<<<<<<< HEAD
 #container {
+=======
+#container{
+>>>>>>> e7125290595b0f48cdbfa7627ee2a3294b90e900
     width: 70%;
     padding: 0;
     text-align: left;
     border: 1px solid #DDD;
+<<<<<<< HEAD
     margin: 0 auto;
+=======
+    margin:0 auto;
+>>>>>>> e7125290595b0f48cdbfa7627ee2a3294b90e900
 }
 
 #container h1 {
@@ -38,6 +59,11 @@ body {
     font-size: 10px;
 }
 
+<<<<<<< HEAD
 #post {
     padding: 1em;
+=======
+#post{
+    padding:  1em;
+>>>>>>> e7125290595b0f48cdbfa7627ee2a3294b90e900
 }
