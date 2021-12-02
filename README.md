@@ -11,3 +11,6 @@ En este curso vemos de todo:
 * Trucos muy locos
 
 Y como amable recordatorio: **Este readme.md es un chiste**
+sadsadsa
+sadsadasd
+sdasadsad
